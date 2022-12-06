@@ -1,4 +1,3 @@
-
-function Script1(x){
-	show_message(x)
+function OpenMenu(){
+	layer_get_depth("Instansces")
 }
