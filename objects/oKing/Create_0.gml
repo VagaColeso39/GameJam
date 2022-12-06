@@ -1,1 +1,0 @@
-//var _king = instance_create_layer(500, 600, "Instances", oKing)
