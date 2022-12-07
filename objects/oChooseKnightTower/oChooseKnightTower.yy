@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object7",
-  "spriteId": null,
+  "name": "oChooseKnightTower",
+  "spriteId": {
+    "name": "sKnightTowerLvl1",
+    "path": "sprites/sKnightTowerLvl1/sKnightTowerLvl1.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
