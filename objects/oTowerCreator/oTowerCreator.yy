@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oTowerCreator",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPlace",
+    "path": "sprites/sPlace/sPlace.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
