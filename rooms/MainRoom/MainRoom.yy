@@ -49,7 +49,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7C0A5560","properties":[],"isDnd":false,"objectId":{"name":"oTowerCreator","path":"objects/oTowerCreator/oTowerCreator.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":623.0,"y":350.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A447C35","properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"fish_place_direction","path":"objects/oTowerCreator/oTowerCreator.yy",},"objectId":{"name":"oTowerCreator","path":"objects/oTowerCreator/oTowerCreator.yy",},"value":"\"down\"",},
-          ],"isDnd":false,"objectId":{"name":"oTowerCreator","path":"objects/oTowerCreator/oTowerCreator.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":931.0,"y":64.0,},
+          ],"isDnd":false,"objectId":{"name":"oTowerCreator","path":"objects/oTowerCreator/oTowerCreator.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":787.0,"y":48.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_34088509","properties":[],"isDnd":false,"objectId":{"name":"oMoney","path":"objects/oMoney/oMoney.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":921.0,"y":2.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"lTower","instances":[],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"lMobs","instances":[
@@ -83,6 +84,7 @@
     {"name":"inst_7C0A5560","path":"rooms/MainRoom/MainRoom.yy",},
     {"name":"inst_4A447C35","path":"rooms/MainRoom/MainRoom.yy",},
     {"name":"inst_67CF6693","path":"rooms/MainRoom/MainRoom.yy",},
+    {"name":"inst_34088509","path":"rooms/MainRoom/MainRoom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

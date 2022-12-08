@@ -27,7 +27,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "GameJam",
-    "path": "GameJam.yyp",
+    "name": "Объекты",
+    "path": "folders/Объекты.yy",
   },
 }
