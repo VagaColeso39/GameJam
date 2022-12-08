@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oArrow",
   "spriteId": {
-    "name": "Sprite24",
-    "path": "sprites/Sprite24/Sprite24.yy",
+    "name": "sArcherArrow",
+    "path": "sprites/sArcherArrow/sArcherArrow.yy",
   },
   "solid": false,
   "visible": true,
