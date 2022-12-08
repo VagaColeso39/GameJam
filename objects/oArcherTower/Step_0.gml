@@ -1,10 +1,9 @@
 function shoot(obj){
 with (instance_create_layer(x, y, "lBullets", oArrow))
 {
-	while(oArrow){
-		move_towards_point(obj.x, obj.y, 12)
-		time = get_timer()
-		while get_timer - time <= 500000{}
+	for(i = 0; i <= 100000; i++){
+		move_towards_point(obj.x, obj.y, 5)
+		
 	}    
 }
 }
