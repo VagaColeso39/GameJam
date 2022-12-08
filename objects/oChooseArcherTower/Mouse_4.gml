@@ -1,5 +1,5 @@
-if global.money >= oArcherTower.cost{
-	global.money -= oArcherTower.cost
+if global.money >= 150{
+	global.money -= 150
 var tower = instance_create_layer(x, y-50, "lTower", oArcherTower)
 sprite_index = sEmptySprite
 if place{

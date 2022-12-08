@@ -1,5 +1,5 @@
-if global.money >= oKnightTower.cost{
-	global.money -= oKnightTower.cost
+if global.money >= 100{
+	global.money -= 100
 	var tower = instance_create_layer(x, y+50, "lTower", oKnightTower)
 	sprite_index = sEmptySprite
 	if place{

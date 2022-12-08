@@ -1,5 +1,5 @@
-if global.money >= oWizardTower.cost{
-	global.money -= oWizardTower.cost
+if global.money >= 200{
+	global.money -= 200
 var tower = instance_create_layer(x+50, y, "lTower", oWizardTower)
 sprite_index = sEmptySprite
 if place{
@@ -7,5 +7,5 @@ if place{
 	instance_destroy(place.chooseKnight)
 	instance_destroy(place.chooseBomber)
 }
-
+}
 
