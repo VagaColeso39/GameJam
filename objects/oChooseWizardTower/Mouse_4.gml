@@ -1,3 +1,5 @@
+if global.money >= oWizardTower.cost{
+	global.money -= oWizardTower.cost
 var tower = instance_create_layer(x+50, y, "lTower", oWizardTower)
 sprite_index = sEmptySprite
 if place{
