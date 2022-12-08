@@ -1,0 +1,1 @@
+var knight = instance_create_layer(x, y-50, "lMobs", oFishKnight)

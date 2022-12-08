@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oKnightTower",
+  "name": "oFishKnight",
   "spriteId": {
-    "name": "sKnightTowerLvl1",
-    "path": "sprites/sKnightTowerLvl1/sKnightTowerLvl1.yy",
+    "name": "sFishSword",
+    "path": "sprites/sFishSword/sFishSword.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,7 +26,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
