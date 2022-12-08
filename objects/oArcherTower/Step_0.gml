@@ -1,8 +1,7 @@
 function shoot(){
-with (instance_create_layer(x, y, "lBullets", obj_Shoot))
+with (instance_create_layer(x, y, "lBullets", oArrow))
 {
-    phy_bullet = true;
-    move_towards_point()
+    move_towards_point(400, 400, 5)
 }
 }
 
