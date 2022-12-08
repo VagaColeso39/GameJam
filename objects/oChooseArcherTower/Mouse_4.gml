@@ -3,4 +3,5 @@ sprite_index = sEmptySprite
 if place{
 	instance_destroy(place.chooseKnight)
 	instance_destroy(place.chooseWizard)
+	instance_destroy(place.chooseBomber)
 }

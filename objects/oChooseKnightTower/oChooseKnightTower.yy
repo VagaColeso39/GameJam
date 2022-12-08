@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oChooseKnightTower",
   "spriteId": {
-    "name": "sKnightTowerLvl1",
-    "path": "sprites/sKnightTowerLvl1/sKnightTowerLvl1.yy",
+    "name": "sChooseKnight",
+    "path": "sprites/sChooseKnight/sChooseKnight.yy",
   },
   "solid": false,
   "visible": true,

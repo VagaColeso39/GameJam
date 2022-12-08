@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oChooseWizardTower",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sChooseMage",
+    "path": "sprites/sChooseMage/sChooseMage.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

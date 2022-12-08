@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oWizardTower",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sMageTower",
+    "path": "sprites/sMageTower/sMageTower.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

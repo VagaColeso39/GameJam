@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oChooseArcherTower",
   "spriteId": {
-    "name": "sArcherTowerLevel1",
-    "path": "sprites/sArcherTowerLevel1/sArcherTowerLevel1.yy",
+    "name": "sChooseArcher",
+    "path": "sprites/sChooseArcher/sChooseArcher.yy",
   },
   "solid": false,
   "visible": true,
