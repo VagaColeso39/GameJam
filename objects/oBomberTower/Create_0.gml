@@ -1,5 +1,5 @@
 level = 1
-type = "basic"
 cost = 300
-max_range = 200
-min_range = 0
+max_range = 500
+min_range = 150
+time = get_timer()

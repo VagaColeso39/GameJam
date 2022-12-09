@@ -1,6 +1,6 @@
 if global.money >= 300{
 	global.money -= 300
-var tower = instance_create_layer(x, y+50, "lTower", oBomberTower)
+var tower = instance_create_layer(x - 50, y, "lTower", oBomberTower)
 
 if place{
 	instance_destroy(place.chooseKnight)

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oBomberTower",
+  "name": "oStone",
   "spriteId": {
-    "name": "sBoomTower",
-    "path": "sprites/sBoomTower/sBoomTower.yy",
+    "name": "sBomberStone",
+    "path": "sprites/sBomberStone/sBomberStone.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,6 +27,7 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oEnemyShark","path":"objects/oEnemyShark/oEnemyShark.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
