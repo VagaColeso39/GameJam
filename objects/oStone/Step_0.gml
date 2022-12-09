@@ -4,7 +4,7 @@ if not isfalled{
 		alarm[0] = room_speed * 0.1
 	}
 }
-if (image_index>=17 and image_index <6)
+if (image_index>=17 and image_index <18)
 {
 image_speed=0;
 }

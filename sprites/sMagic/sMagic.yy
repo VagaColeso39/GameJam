@@ -65,7 +65,7 @@
     "name": "sMagic",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 60.0,
+    "playbackSpeed": 120.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
