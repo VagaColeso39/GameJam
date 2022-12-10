@@ -3,5 +3,8 @@ type = "basic"
 cost = 100
 max_range = 200
 min_range = 0
+place = 0
+alarm[1] = room_speed * 0.02
+
 time = get_timer()
 fish = instance_create_layer(x, y, "lTower", oFishArcher)
