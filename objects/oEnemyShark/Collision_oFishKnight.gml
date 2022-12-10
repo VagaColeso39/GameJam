@@ -2,7 +2,7 @@ self.hp -= other.strength
 other.hp -= self.strength
 if self.hp <= 0{
 	global.money += 50
-instance_destroy(self)
+	instance_destroy(self)
 }
 if other.hp <= 0{
 	instance_destroy(other)
