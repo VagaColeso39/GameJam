@@ -6,6 +6,8 @@ chooseKnight.place = id
 chooseArcher.place = id
 chooseWizard.place = id
 chooseBomber.place = id
+chooseKnight.x_move = self.x_move
+chooseKnight.y_move = self.y_move
 
 
 sprite_index = sEmptySprite
