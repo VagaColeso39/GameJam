@@ -100,6 +100,8 @@
     {"name":"inst_4A447C35","path":"rooms/MainRoom/MainRoom.yy",},
     {"name":"inst_34088509","path":"rooms/MainRoom/MainRoom.yy",},
     {"name":"inst_1FC419B3","path":"rooms/MainRoom/MainRoom.yy",},
+    {"name":"inst_34088509","path":"rooms/MainRoom/MainRoom.yy",},
+    {"name":"inst_1FC419B3","path":"rooms/MainRoom/MainRoom.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
