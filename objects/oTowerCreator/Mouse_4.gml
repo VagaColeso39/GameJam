@@ -13,7 +13,10 @@ chooseKnight.y_move = self.y_move
 self.isclicked = true
 a = 1
 alarm[0] = 0.02 * room_speed
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 
 
