@@ -7,6 +7,7 @@ if chooseLevelUp != -1{
 	}
 
 
+
 if self.isclicked and a == noone{
 	instance_destroy(chooseLevelUp)
 	instance_destroy(chooseDelete)

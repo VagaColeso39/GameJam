@@ -1,4 +1,4 @@
-if obj {
+if obj{
 	global.money += obj.cost / 2
 	obj.place.sprite_index = sPlace
 	obj.place.isclicked = false
