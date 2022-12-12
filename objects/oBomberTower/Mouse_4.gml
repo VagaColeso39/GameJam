@@ -1,10 +1,11 @@
 chooseLevelUp = instance_create_layer(x, y - 70, "lTower", oChooseLevelUp)
-chooseDelete = instance_create_layer(x, y + 70, "lTower", oChooseDelete)
+chooseLevelUp.obj = id
+
 if lvl == 3{
 	chooseLevelUp.sprite_index = sEmptySprite
 }
 
-chooseLevelUp.obj = id
+chooseDelete = instance_create_layer(x, y + 70, "lTower", oChooseDelete)
 chooseDelete.obj = id
 self.isclicked = true
 a = 1
