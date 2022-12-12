@@ -1,1 +1,1 @@
-_speed *= 10
+path_speed *= 10
