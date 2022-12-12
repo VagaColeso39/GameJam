@@ -1,2 +1,2 @@
-flag = true
+stoneFlag = true
 

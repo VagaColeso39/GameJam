@@ -1,5 +1,5 @@
-if other.isfalled and flag{
-	flag = false
+if other.isfalled and stoneFlag{
+	stoneFlag = false
 	hp -= other.damage
 	if hp <= 0{
 		global.money += 50

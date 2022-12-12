@@ -4,5 +4,6 @@ dist = distance_to_object(obj)
 if dist <= max_range and get_timer() - time >= 5000000{
 	magic = instance_create_layer(x, y, "lBullets", oMagic)
 	magic.target = obj
+	magic.damage = strengthArray[lvl-1]
 	time = get_timer()
 }

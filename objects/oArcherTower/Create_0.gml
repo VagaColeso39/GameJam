@@ -1,7 +1,7 @@
 lvl = 1
 costArray = [150, 450, 1350]
 max_rangeArray = [200, 300, 400]
-strengthArray = [10, 20, 30]
+strengthArray = [30, 50, 70]
 hpArray = [100, 200, 300]
 spritesArray = [sArcherTowerLevel1, sArcherTowerLevel2, sArcherTowerLevel3]
 max_range = max_rangeArray[0]
