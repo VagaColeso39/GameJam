@@ -2,7 +2,7 @@ if fishFlag{
 	other.hp -= self.strength
 	self.hp -= other.strength
 	if self.hp <= 0{
-		global.money += 50
+		instance_create_layer(x, y, "lMobs", oMoneyGetting)
 		instance_destroy(self)
 	}
 	if other.hp <= 0{

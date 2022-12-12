@@ -49,6 +49,7 @@
     {"id":{"name":"shark1","path":"sprites/shark1/shark1.yy",},"order":37,},
     {"id":{"name":"sMoney","path":"sprites/sMoney/sMoney.yy",},"order":31,},
     {"id":{"name":"oChooseBomberTower","path":"objects/oChooseBomberTower/oChooseBomberTower.yy",},"order":13,},
+    {"id":{"name":"oMoneyGetting","path":"objects/oMoneyGetting/oMoneyGetting.yy",},"order":19,},
     {"id":{"name":"oMagic","path":"objects/oMagic/oMagic.yy",},"order":18,},
     {"id":{"name":"sPlace","path":"sprites/sPlace/sPlace.yy",},"order":6,},
     {"id":{"name":"sKing","path":"sprites/sKing/sKing.yy",},"order":0,},
