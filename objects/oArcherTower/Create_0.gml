@@ -1,10 +1,19 @@
-level = 1
-type = "basic"
-cost = 100
-max_range = 200
-min_range = 0
+lvl = 1
+costArray = [150, 450, 1350]
+max_rangeArray = [200, 300, 400]
+strengthArray = [30, 50, 70]
+hpArray = [100, 200, 300]
+spritesArray = [sArcherTowerLevel1, sArcherTowerLevel2, sArcherTowerLevel3]
+max_range = max_rangeArray[0]
+strength = strengthArray[0]
+hp = hpArray[0]
+cost = costArray[0]
 place = 0
+chooseLevelUp = -1
+lst = ds_list_create()
+isclicked = false
 alarm[1] = room_speed * 0.02
 
 time = get_timer()
 fish = instance_create_layer(x, y, "lTower", oFishArcher)
+
