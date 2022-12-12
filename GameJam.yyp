@@ -31,7 +31,6 @@
     {"id":{"name":"oChooseWizardTower","path":"objects/oChooseWizardTower/oChooseWizardTower.yy",},"order":8,},
     {"id":{"name":"oMobSpawner","path":"objects/oMobSpawner/oMobSpawner.yy",},"order":11,},
     {"id":{"name":"sEnemyShark","path":"sprites/sEnemyShark/sEnemyShark.yy",},"order":28,},
-    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},"order":41,},
     {"id":{"name":"sFishArcher","path":"sprites/sFishArcher/sFishArcher.yy",},"order":19,},
     {"id":{"name":"oTrashPlace","path":"objects/oTrashPlace/oTrashPlace.yy",},"order":20,},
     {"id":{"name":"sKnightTowerLvl3","path":"sprites/sKnightTowerLvl3/sKnightTowerLvl3.yy",},"order":4,},
@@ -63,8 +62,10 @@
     {"id":{"name":"sArcherTowerLevel3","path":"sprites/sArcherTowerLevel3/sArcherTowerLevel3.yy",},"order":14,},
     {"id":{"name":"sBackground_Earth","path":"sprites/sBackground_Earth/sBackground_Earth.yy",},"order":2,},
     {"id":{"name":"pEnemiesPath","path":"paths/pEnemiesPath/pEnemiesPath.yy",},"order":0,},
+    {"id":{"name":"Sprite38","path":"sprites/Sprite38/Sprite38.yy",},"order":49,},
     {"id":{"name":"sChooseArcher","path":"sprites/sChooseArcher/sChooseArcher.yy",},"order":22,},
     {"id":{"name":"shark3","path":"sprites/shark3/shark3.yy",},"order":39,},
+    {"id":{"name":"sChooseDelete","path":"sprites/sChooseDelete/sChooseDelete.yy",},"order":50,},
     {"id":{"name":"MainRoom","path":"rooms/MainRoom/MainRoom.yy",},"order":0,},
   ],
   "Options": [
