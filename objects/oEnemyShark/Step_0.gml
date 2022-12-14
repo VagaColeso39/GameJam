@@ -1,0 +1,1 @@
+if sprite_index == sSharkBoss{show_debug_message(hp)}
