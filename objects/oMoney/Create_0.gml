@@ -1,2 +1,2 @@
-global.money = 5000
+global.money = 200
 draw_set_color(c_yellow)
